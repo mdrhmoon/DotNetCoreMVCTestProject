@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DotNetCoreMVCTestProject.Utility/1.0.0": {
+        "runtime": {
+          "DotNetCoreMVCTestProject.Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNetCoreMVCTestProject.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

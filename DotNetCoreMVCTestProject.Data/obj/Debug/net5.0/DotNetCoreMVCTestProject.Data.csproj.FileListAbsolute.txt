@@ -1,0 +1,15 @@
+D:\PROJECT\DotNetCoreMVCTestProject\DotNetCoreMVCTestProject.Data\bin\Debug\net5.0\DotNetCoreMVCTestProject.Data.deps.json
+D:\PROJECT\DotNetCoreMVCTestProject\DotNetCoreMVCTestProject.Data\bin\Debug\net5.0\DotNetCoreMVCTestProject.Data.dll
+D:\PROJECT\DotNetCoreMVCTestProject\DotNetCoreMVCTestProject.Data\bin\Debug\net5.0\ref\DotNetCoreMVCTestProject.Data.dll
+D:\PROJECT\DotNetCoreMVCTestProject\DotNetCoreMVCTestProject.Data\bin\Debug\net5.0\DotNetCoreMVCTestProject.Data.pdb
+D:\PROJECT\DotNetCoreMVCTestProject\DotNetCoreMVCTestProject.Data\bin\Debug\net5.0\DotNetCoreMVCTestProject.Dto.dll
+D:\PROJECT\DotNetCoreMVCTestProject\DotNetCoreMVCTestProject.Data\bin\Debug\net5.0\DotNetCoreMVCTestProject.Dto.pdb
+D:\PROJECT\DotNetCoreMVCTestProject\DotNetCoreMVCTestProject.Data\obj\Debug\net5.0\DotNetCoreMVCTestProject.Data.csproj.AssemblyReference.cache
+D:\PROJECT\DotNetCoreMVCTestProject\DotNetCoreMVCTestProject.Data\obj\Debug\net5.0\DotNetCoreMVCTestProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\DotNetCoreMVCTestProject\DotNetCoreMVCTestProject.Data\obj\Debug\net5.0\DotNetCoreMVCTestProject.Data.AssemblyInfoInputs.cache
+D:\PROJECT\DotNetCoreMVCTestProject\DotNetCoreMVCTestProject.Data\obj\Debug\net5.0\DotNetCoreMVCTestProject.Data.AssemblyInfo.cs
+D:\PROJECT\DotNetCoreMVCTestProject\DotNetCoreMVCTestProject.Data\obj\Debug\net5.0\DotNetCoreMVCTestProject.Data.csproj.CoreCompileInputs.cache
+D:\PROJECT\DotNetCoreMVCTestProject\DotNetCoreMVCTestProject.Data\obj\Debug\net5.0\DotNetCoreMVCTestProject.Data.csproj.CopyComplete
+D:\PROJECT\DotNetCoreMVCTestProject\DotNetCoreMVCTestProject.Data\obj\Debug\net5.0\DotNetCoreMVCTestProject.Data.dll
+D:\PROJECT\DotNetCoreMVCTestProject\DotNetCoreMVCTestProject.Data\obj\Debug\net5.0\ref\DotNetCoreMVCTestProject.Data.dll
+D:\PROJECT\DotNetCoreMVCTestProject\DotNetCoreMVCTestProject.Data\obj\Debug\net5.0\DotNetCoreMVCTestProject.Data.pdb
