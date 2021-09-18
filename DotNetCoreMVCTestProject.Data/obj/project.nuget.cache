@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p3DWlLYtoseAvJAQWk6j8vWTrv+n3mj0qGKT+uC7D2pp7fnFq2B5uXSCfQKhhl2JlF8GOub59LqRfKmvfqKHgg==",
+  "dgSpecHash": "yO4NbnybIUDRrblpBWj3jgJEW0x/ZOXnZeFHPC9ze5bIlGIZJW4IpGYnWRNCXPPV9NH/i98McRQdHobcfm/3Ug==",
   "success": true,
-  "projectFilePath": "D:\\PROJECT\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.Data\\DotNetCoreMVCTestProject.Data.csproj",
+  "projectFilePath": "C:\\PROJECTS\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.Data\\DotNetCoreMVCTestProject.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\rhoss\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XVqap/phppI8BZ7/iC+EJ3mWk4krWhXubJkCoSLg6SfDPGom/cPD1poOjwUqgZnk0qtdV7kfmdM+e2mlf020HA==",
+  "dgSpecHash": "7th2z1XDwAXJsIylVCwXpXNnQegn9hveI4Hkz0Wz3zZgnNPy6joaGBGyYLurJWGpCQPRJ+O/Gapro9IvqIT+EQ==",
   "success": true,
-  "projectFilePath": "D:\\PROJECT\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.Dto\\DotNetCoreMVCTestProject.Dto.csproj",
+  "projectFilePath": "C:\\PROJECTS\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.Dto\\DotNetCoreMVCTestProject.Dto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rhoss\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\rhoss\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

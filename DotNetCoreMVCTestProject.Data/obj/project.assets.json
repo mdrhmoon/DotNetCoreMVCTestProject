@@ -5685,11 +5685,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJECT\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.Data\\DotNetCoreMVCTestProject.Data.csproj",
+      "projectUniqueName": "C:\\PROJECTS\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.Data\\DotNetCoreMVCTestProject.Data.csproj",
       "projectName": "DotNetCoreMVCTestProject.Data",
-      "projectPath": "D:\\PROJECT\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.Data\\DotNetCoreMVCTestProject.Data.csproj",
+      "projectPath": "C:\\PROJECTS\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.Data\\DotNetCoreMVCTestProject.Data.csproj",
       "packagesPath": "C:\\Users\\rhoss\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJECT\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.Data\\obj\\",
+      "outputPath": "C:\\PROJECTS\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5711,8 +5711,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\PROJECT\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.Dto\\DotNetCoreMVCTestProject.Dto.csproj": {
-              "projectPath": "D:\\PROJECT\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.Dto\\DotNetCoreMVCTestProject.Dto.csproj"
+            "C:\\PROJECTS\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.Dto\\DotNetCoreMVCTestProject.Dto.csproj": {
+              "projectPath": "C:\\PROJECTS\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.Dto\\DotNetCoreMVCTestProject.Dto.csproj"
             }
           }
         }

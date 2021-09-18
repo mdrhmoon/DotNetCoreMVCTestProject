@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nhXopBToQyDZx4pZbJsfdBhMUGPy9cbsd2b5oVCAcjMl8q/9lOusmQhmqMriuJOF4VvL9qniwtTQV81rQ11e9w==",
+  "dgSpecHash": "6ZEmDnaxZk/iX82B23jsuDtKX9mjnZ/Fr6owz1Fn8KAsEMQdlTxOEYHgHNnzmPwDJ++bAZAhJkE5SkuaZXTCtA==",
   "success": true,
-  "projectFilePath": "D:\\PROJECT\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.Service\\DotNetCoreMVCTestProject.Service.csproj",
+  "projectFilePath": "C:\\PROJECTS\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.Service\\DotNetCoreMVCTestProject.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rhoss\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\rhoss\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",

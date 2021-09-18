@@ -5861,11 +5861,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJECT\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.UnitTest\\DotNetCoreMVCTestProject.UnitTest.csproj",
+      "projectUniqueName": "C:\\PROJECTS\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.UnitTest\\DotNetCoreMVCTestProject.UnitTest.csproj",
       "projectName": "DotNetCoreMVCTestProject.UnitTest",
-      "projectPath": "D:\\PROJECT\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.UnitTest\\DotNetCoreMVCTestProject.UnitTest.csproj",
+      "projectPath": "C:\\PROJECTS\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.UnitTest\\DotNetCoreMVCTestProject.UnitTest.csproj",
       "packagesPath": "C:\\Users\\rhoss\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJECT\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.UnitTest\\obj\\",
+      "outputPath": "C:\\PROJECTS\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

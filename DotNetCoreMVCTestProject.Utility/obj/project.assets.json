@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJECT\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.Utility\\DotNetCoreMVCTestProject.Utility.csproj",
+      "projectUniqueName": "C:\\PROJECTS\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.Utility\\DotNetCoreMVCTestProject.Utility.csproj",
       "projectName": "DotNetCoreMVCTestProject.Utility",
-      "projectPath": "D:\\PROJECT\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.Utility\\DotNetCoreMVCTestProject.Utility.csproj",
+      "projectPath": "C:\\PROJECTS\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.Utility\\DotNetCoreMVCTestProject.Utility.csproj",
       "packagesPath": "C:\\Users\\rhoss\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJECT\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.Utility\\obj\\",
+      "outputPath": "C:\\PROJECTS\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

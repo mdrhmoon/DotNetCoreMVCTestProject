@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "62b2MgRk+J8ei8TLMc/XJmFDUTXBdHrJv9os/pzbJij6E0CvuW/cGtkVl55eBJBdFGwDEtr+0OeIFtRIpFL0xA==",
+  "dgSpecHash": "MfnPxzsAAghuOsJ3p8t/7mZ7dBbnUuOSQUscOoub6sDrPeqVGRxJxf/0DdKtn8Ewj7wKtIXbYGjI8aqHC96gQA==",
   "success": true,
-  "projectFilePath": "D:\\PROJECT\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.UnitTest\\DotNetCoreMVCTestProject.UnitTest.csproj",
+  "projectFilePath": "C:\\PROJECTS\\DotNetCoreMVCTestProject\\DotNetCoreMVCTestProject.UnitTest\\DotNetCoreMVCTestProject.UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rhoss\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\rhoss\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
